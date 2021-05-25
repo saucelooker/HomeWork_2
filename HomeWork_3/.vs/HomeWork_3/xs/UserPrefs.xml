@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BCA7C086-4BCD-4399-9123-BC95D9A9D43F}|Default">
+  <MonoDevelop.Ide.ItemProperties.HomeWork__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork_3/Program.cs">
+    <Files>
+      <File FileName="HomeWork_3/Program.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWork_3" expanded="True">
+            <Node name="HomeWork_3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../HomeWork_3/Program.cs" line="12" column="21" endLine="12" endColumn="26" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+    <Watch file="../../../HomeWork_3/Program.cs" line="14" column="25" endLine="14" endColumn="30" offsetX="-1" offsetY="-1" expression="j" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

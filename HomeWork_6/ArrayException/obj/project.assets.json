@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/HomeWork_6.csproj",
-      "projectName": "HomeWork_6",
-      "projectPath": "/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/HomeWork_6.csproj",
+      "projectUniqueName": "/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/ArrayException.csproj",
+      "projectName": "ArrayException",
+      "projectPath": "/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/ArrayException.csproj",
       "packagesPath": "/Users/sergejderevankin/.nuget/packages/",
-      "outputPath": "/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/obj/",
+      "outputPath": "/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sergejderevankin/.config/NuGet/NuGet.Config"

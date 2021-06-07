@@ -1,0 +1,12 @@
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/bin/Debug/netcoreapp3.1/ArrayException.deps.json
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/bin/Debug/netcoreapp3.1/ArrayException.runtimeconfig.json
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/bin/Debug/netcoreapp3.1/ArrayException.runtimeconfig.dev.json
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/bin/Debug/netcoreapp3.1/ArrayException.dll
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/bin/Debug/netcoreapp3.1/ArrayException.pdb
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/Debug/netcoreapp3.1/ArrayException.csprojAssemblyReference.cache
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/Debug/netcoreapp3.1/ArrayException.AssemblyInfoInputs.cache
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/Debug/netcoreapp3.1/ArrayException.AssemblyInfo.cs
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/Debug/netcoreapp3.1/ArrayException.csproj.CoreCompileInputs.cache
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/Debug/netcoreapp3.1/ArrayException.dll
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/Debug/netcoreapp3.1/ArrayException.pdb
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_6/ArrayException/obj/Debug/netcoreapp3.1/ArrayException.genruntimeconfig.cache

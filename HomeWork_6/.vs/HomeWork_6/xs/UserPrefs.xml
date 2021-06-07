@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1943432F-44A8-4B83-AB12-E77F5399D1DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArrayException PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayException/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="ArrayException/Program.cs" Line="37" Column="36" />
+      <File FileName="ArrayException/MyArraySizeException.cs" Line="9" Column="1" />
+      <File FileName="ArrayException/MyArrayDataException.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWork_6" expanded="True">
+            <Node name="ArrayException" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="HomeWork_6" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HomeWork__6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

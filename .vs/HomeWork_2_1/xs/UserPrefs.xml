@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{805A3219-3C94-409C-9B38-A6DBD1CC6064}|Default">
+  <MonoDevelop.Ide.ItemProperties.MidTemp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Check/Product.cs">
+    <Files>
+      <File FileName="Check/Program.cs" Line="7" Column="1" />
+      <File FileName="Check/Product.cs" Line="20" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWork_2_1" expanded="True">
+            <Node name="Check" expanded="True">
+              <Node name="Product.cs" selected="True" />
+            </Node>
+            <Node name="ListOfWorkingDays" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListOfWorkingDays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

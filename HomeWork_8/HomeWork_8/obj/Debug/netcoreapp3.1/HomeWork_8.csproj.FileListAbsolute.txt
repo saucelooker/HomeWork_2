@@ -1,0 +1,12 @@
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/bin/Debug/netcoreapp3.1/HomeWork_8.deps.json
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/bin/Debug/netcoreapp3.1/HomeWork_8.runtimeconfig.json
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/bin/Debug/netcoreapp3.1/HomeWork_8.runtimeconfig.dev.json
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/bin/Debug/netcoreapp3.1/HomeWork_8.dll
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/bin/Debug/netcoreapp3.1/HomeWork_8.pdb
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/obj/Debug/netcoreapp3.1/HomeWork_8.csproj.AssemblyReference.cache
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/obj/Debug/netcoreapp3.1/HomeWork_8.AssemblyInfoInputs.cache
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/obj/Debug/netcoreapp3.1/HomeWork_8.AssemblyInfo.cs
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/obj/Debug/netcoreapp3.1/HomeWork_8.csproj.CoreCompileInputs.cache
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/obj/Debug/netcoreapp3.1/HomeWork_8.dll
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/obj/Debug/netcoreapp3.1/HomeWork_8.pdb
+/Users/sergejderevankin/Projects/HomeWork_2/HomeWork_8/HomeWork_8/obj/Debug/netcoreapp3.1/HomeWork_8.genruntimeconfig.cache
